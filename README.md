@@ -49,9 +49,9 @@ sfc /scannow 3.1 type: dism /online /cleanup-image /restorehealth 3.2 then Resta
 
 
 ### Bypass Microsoft Account during Installation
--Step 1
+- Step 1
 Press Shift+F10 to open command propmt.
--Step 2
+- Step 2
 Type in the command propmt.
 ```
 OOBE\BYPASSNRO
