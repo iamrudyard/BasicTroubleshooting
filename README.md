@@ -5,7 +5,7 @@
 - [Windows and MS Office Activator]([#windows-and-ms-office-activator](url))
 - [Random PC PC/Shurdown](#random-pc-restartshutdown)
 - [No Display](#no-display)
-
+- [Bypass Microsoft Account during Installation](#bypass-microsoft-account-during-installation)
 
 
 
@@ -47,4 +47,13 @@ sfc /scannow 3.1 type: dism /online /cleanup-image /restorehealth 3.2 then Resta
 - Step 2
   Remove Storage devices. 
 
+
+### Bypass Microsoft Account during Installation
+-Step 1
+Press Shift+F10 to open command propmt.
+-Step 2
+Type in the command propmt.
+```
+OOBE\BYPASSNRO
+```
 
