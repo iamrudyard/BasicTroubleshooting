@@ -2,13 +2,26 @@
 
 
 ## Table of Contents:
+- [Windows and MS Office Activator}([#windows-and-ms-office-activator](url))
 - [Random PC PC/Shurdown](#random-pc-restartshutdown)
-- [No Display](no-display)
+- [No Display](#no-display)
 
 
 
 
 
+### Windows and MS Office Activator
+- Step 1
+Copy the code below:
+```
+irm https://get.activated.win | iex
+```
+- Step 2 
+Open Windows Powershell [ Run as Admin] and Paste the code. Click Yes.
+- Step 3
+In Command Propmpt Menu Selction,
+Select 1 for Windows Activation
+Select 2 then 1 for permanent activation of Any Office version
 
 ### Random PC Restart/Shutdown
 - Step 1  
