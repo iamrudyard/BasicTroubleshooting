@@ -2,7 +2,7 @@
 
 
 ## Table of Contents:
-- [Windows and MS Office Activator}([#windows-and-ms-office-activator](url))
+- [Windows and MS Office Activator]([#windows-and-ms-office-activator](url))
 - [Random PC PC/Shurdown](#random-pc-restartshutdown)
 - [No Display](#no-display)
 
